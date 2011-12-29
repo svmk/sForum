@@ -1,0 +1,79 @@
+#main_header {
+    width: 800px;
+    height: 50px;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main_nav
+{
+    width: 800px;
+    height: 50px;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main_section
+{
+    width: 800px;
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+#auth_form
+{
+    margin-bottom: 300px;
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#auth_login, #auth_password
+{
+    width: 170px;
+}
+#auth_form label
+{
+    width: 100px;
+    display: block;
+    float: left;
+    margin-left: 3px;
+}
+#auth_submit
+{
+    float: right;
+    display: block;
+    width: 80px;
+}
+#auth_error
+{
+    margin-top: 220px;
+    /* margin-bottom: 300px; */
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    border: 1px solid red;
+    text-align: center;
+    line-height: 30px;
+}
+#auth_empty
+{
+    margin-top: 220px;
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+}
+#auth_logout
+{
+    margin-top: 220px;
+    margin-bottom: 300px;
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+}
